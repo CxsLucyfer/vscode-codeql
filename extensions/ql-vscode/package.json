@@ -1755,7 +1755,7 @@
     "d3-graphviz": "^5.0.2",
     "fs-extra": "^11.1.1",
     "immutable": "^4.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "minimatch": "^9.0.0",
     "minimist": "^1.2.6",
     "msw": "^1.2.0",
